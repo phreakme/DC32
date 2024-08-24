@@ -8,6 +8,14 @@ Give us a call at 212-203-4977!
 >[!CAUTION]
 >Please pay attention to the 9V Battery polarity, do not plug the battery in backwards or you will fry your board!
 
+![PhreakMe DefCon 32 Badge front](images/front.jpg)
+
+![PhreakMe DefCon 32 Badge front](images/back.jpg)
+
+![PhreakMe DefCon 32 Badge front](images/side.jpg)
+
+![PhreakMe DefCon 32 Badge front](images/kit.jpg)
+
 The badge design was based on the software blue box from [Projectmf.org](http://projectmf.org).  It runs a slightly modified version of the arduino code from Projectmf.
 
 ### Badge Operation

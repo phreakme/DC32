@@ -19,5 +19,8 @@ Badge assembly video can be found on YouTube [here](https://youtu.be/mM0XuOlJHrs
 ### Flashing the Badge Firmware
 The badge kits come pre-flashed with the software blue box firmware flashed onto the included arduino pro micro board.  If you would like to flash your own arduino pro micro, the arduino project along with the required libraries can be found in the PhreakMeBlueBoxBadgeFirmware folder of this repo.
 
+### Purchasing a Badge Kit
+If you would like to purchase a badge, they are available [here](https://www.etsy.com/listing/1763116668/phreakme-badge-kit)
+
 ## The Con
 Huge contragulations to the Psychoholics for winning a Black Badge at DefCon 32 by capturing every flag in the CTF.  Big thanks to everyone who came by our booth and participated in the CTF!
